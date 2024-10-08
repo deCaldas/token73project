@@ -1,0 +1,24 @@
+{
+  "name": "token73project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blockchain",
+    "Cripto",
+    "Token",
+    "Currency",
+    "JavaScript",
+    "Node.js",
+    ""
+  ],
+  "author": "Diego Whiskey <d.caldascaridad@gmail.com> (https://decaldas.github.io/home/)",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "web3": "^4.13.0"
+  }
+}
